@@ -1,4 +1,2 @@
 Hello !!
 Hello from branch1 branch
-
- 
