@@ -1,2 +1,3 @@
 Hello !!
 Hello from master
+Hello form branch2
